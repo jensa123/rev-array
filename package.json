@@ -1,0 +1,19 @@
+{
+  "name": "rev-array",
+  "version": "1.0.0",
+  "description": "A package containing a function for reversing an array",
+  "main": "./lib/reverse-array.js",
+  "types": "./lib/reverse-array.d.ts",
+  "scripts": {
+    "build": "rm -rf ./lib && tsc"
+  },
+  "keywords": [
+    "array",
+    "reverse-array"
+  ],
+  "author": "JR",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
