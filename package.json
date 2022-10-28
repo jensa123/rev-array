@@ -15,5 +15,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jensa123/rev-array.git"
   }
 }
